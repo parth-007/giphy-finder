@@ -1,0 +1,18 @@
+.App {
+  margin: 10px;
+}
+
+.App-header {
+  background-color: #282c34;
+
+  font-size: 14px;
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.search-list {
+  width: 20%;
+}
