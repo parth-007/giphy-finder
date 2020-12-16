@@ -4,7 +4,6 @@
 
 .App-header {
   background-color: #282c34;
-
   font-size: 14px;
   color: white;
 }
@@ -15,4 +14,15 @@
 
 .search-list {
   width: 20%;
+}
+
+.result-container {
+  border: 1px solid #000;
+  background: #E6E6FA;
+  margin: 20px 10px;
+}
+
+.img-class {
+  border: 1px solid #000;
+  margin: 5px 10px;
 }
